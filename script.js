@@ -22,9 +22,8 @@ const timer = window.setInterval(naesteSlide, 1000);
             tre.style.display = "inline";
             to.style.display = "none";
         }
-        clearInterval(timer);
+        
     }
-
 
 /*
 const slidenul = '<img src="images/billedenul">';
